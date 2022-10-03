@@ -8,8 +8,7 @@ The agent was initially trained for around 10,000 episodes without any explorati
 
 Modules:
 
-anaysis.py: Analysis file for investigating agent performance
-
+anaysis.py: Analysis file for investigating agent performance <br/>
 config.py: Config file for changing the agent training parameters
 
 flappy_rl.py: FlapPyBird implementation with agent training/runner code included
